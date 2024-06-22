@@ -1,6 +1,6 @@
 ![Header](https://yourimageurl.com/header.png)
 
-<h1 align="center">Hi there, I'm [Ibrahim Al Sweis] 👋</h1>
+<h1 align="center">Hi there, I'm Ibrahim Al Sweis 👋</h1>
 <h3 align="center">A passionate developer from [ٍSyria]</h3>
 
 <p align="center">
