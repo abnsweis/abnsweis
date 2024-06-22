@@ -1,8 +1,8 @@
-![Ibrahim Alsubis](https://your-image-url.com/your-animated-name.gif)
+![Ibrahim Al Sweis](https://your-image-url.com/your-animated-name.gif)
 
 # Ibrahim Al Sweis
 
-Hello! I'm Ibrahim Alsubis, a passionate software developer from Syria. I specialize in desktop application development and have a strong background in algorithms and problem-solving.
+Hello! I'm Ibrahim Al Sweis, a passionate software developer from Syria. I specialize in desktop application development and have a strong background in algorithms and problem-solving.
 
 ## 🚀 About Me
 - 🌐 **Location**: Syria
@@ -37,7 +37,7 @@ I started my programming journey with [Programming Advices](https://www.programm
 
 **Thank you for visiting my profile!**
 
-<div style="text-align:center;">
+<div align="center">
     <img src="https://your-image-url.com/another-animated-gif.gif" alt="Coding Animation">
 </div>
 
@@ -57,3 +57,10 @@ I started my programming journey with [Programming Advices](https://www.programm
         color: #0d1b2a;
     }
 </style>
+
+<!-- Include some animated icons using emoji -->
+<div align="center">
+    <img src="https://your-icon-url.com/icon1.gif" alt="Icon 1" width="50" height="50">
+    <img src="https://your-icon-url.com/icon2.gif" alt="Icon 2" width="50" height="50">
+    <img src="https://your-icon-url.com/icon3.gif" alt="Icon 3" width="50" height="50">
+</div>
