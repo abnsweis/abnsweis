@@ -1,45 +1,51 @@
-# 👋 Hello, I'm Yahya Semsem!
+![Header](https://yourimageurl.com/header.png)
 
-## 🌟 About Me
-I'm a passionate Flutter developer and Laravel enthusiast with a keen interest in programming and technology. I love building applications that solve real-world problems and continuously strive to improve my skills.
+<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h3 align="center">A passionate developer from [Your Country]</h3>
 
-- 🔭 I’m currently working on: [Your Latest Project](link-to-project)
-- 🌱 I’m currently learning: Advanced Flutter techniques and Laravel API development
-- 👯 I’m looking to collaborate on: Open-source projects related to mobile and web development
-- 💬 Ask me about: Flutter, Laravel, APIs, and anything tech-related!
-- 📫 How to reach me: [Email Me](mailto:your-email@example.com)
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Linux-blue?style=flat-square&logo=linux" />
+  <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat-square&logo=html5" />
+  <img src="https://img.shields.io/badge/Code-CSS3-informational?style=flat-square&logo=css3" />
+</p>
 
-## 🛠 Technologies & Tools
-- *Languages:* Dart, PHP, JavaScript
-- *Frameworks:* Flutter, Laravel
-- *Tools:* Git, GitHub, VS Code, Postman
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  </a>
+</p>
 
-## 🔥 My Projects
-### 1. Project Name
-Description: Brief description of the project.
-- [Repository](link-to-repo)
-- [Live Demo](link-to-live-demo)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&layout=compact" />
+</p>
 
-### 2. Another Project
-Description: Brief description of the project.
-- [Repository](link-to-repo)
-- [Live Demo](link-to-live-demo)
+<h3 align="center">🚀 My Projects</h3>
+<div align="center">
+  <a href="https://github.com/yourusername/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical" />
+  </a>
+  <a href="https://github.com/yourusername/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical" />
+  </a>
+</div>
 
-## 📈 GitHub Stats
-![Yahya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+<h3 align="center">💬 Connect with me:</h3>
+<p align="center">
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail" /></a>
+</p>
 
-## 🏆 Achievements
-- 🥇 Completed the 'Alf Mobarmij' project training
-- 🌍 Got my first job opportunity in Turkey
+<h3 align="center">🎨 Languages and Tools:</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3" />
+  <img src="https://img.shields.io/badge/-Git-red?style=flat-square&logo=git" />
+</p>
 
-## 📄 Blog
-I write about bird health and more on my blog [Bird Care Corner](link-to-blog).
-
-## 🌐 Social Media
-- [LinkedIn](link-to-linkedin)
-- [Twitter](link-to-twitter)
-- [Facebook](link-to-facebook)
-
----
-
-Thank you for visiting my profile! Feel free to explore my repositories and connect with me. Let's create something amazing together!
+![Footer](https://yourimageurl.com/footer.png)
