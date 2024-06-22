@@ -1,7 +1,7 @@
 ![Header](https://yourimageurl.com/header.png)
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
-<h3 align="center">A passionate developer from [Your Country]</h3>
+<h1 align="center">Hi there, I'm [Ibrahim Al Sweis] 👋</h1>
+<h3 align="center">A passionate developer from [ٍSyria]</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Linux-blue?style=flat-square&logo=linux" />
