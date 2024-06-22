@@ -1,57 +1,165 @@
-![Header](https://yourimageurl.com/header.png)
-
-<h1 align="center">Hi there, I'm Ibrahim Sweis 👋</h1>
-<h3 align="center">A passionate developer from Tal Bajer, Aleppo, Syria</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OS-Windows-blue?style=flat-square&logo=windows" />
-  <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code" />
-  <img src="https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=c%2B%2B" />
-  <img src="https://img.shields.io/badge/Code-C%23-informational?style=flat-square&logo=c-sharp" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Ibrahim's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="Ibrahim's GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&layout=compact" alt="Ibrahim's Top Languages"/>
-</p>
-
-<h3 align="center">🚀 My Projects</h3>
+<!-- Made By Yahya Semsem -->
 <div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical" alt="Project 1"/>
-  </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical" alt="Project 2"/>
-  </a>
+   <a href="https://github.com/abnsweis">
+   <img width=100% src="https://raw.githubusercontent.com/Ibrahim Al Sweis/Sabyasachi-Seal/ouput/action2.gif" href="https://github.com/yabnsweis" /></a>
 </div>
-
-<h3 align="center">💬 Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/abnsweis"><img src="[https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter](https://img.icons8.com/?size=48&id=32323&format=png)" alt="Twitter"/></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail" alt="Email"/></a>
-</p>
-
-<h3 align="center">🎨 Languages and Tools:</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B" alt="C++"/>
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp" alt="C#"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git" alt="Git"/>
-  <img src="https://img.shields.io/badge/-Problem%20Solving-brightgreen?style=flat-square&logo=codewars" alt="Problem Solving"/>
-  <img src="https://img.shields.io/badge/-Algorithms-orange?style=flat-square&logo=codeforces" alt="Algorithms"/>
-  <img src="https://img.shields.io/badge/-Data%20Structures-yellow?style=flat-square&logo=codechef" alt="Data Structures"/>
-</p>
-
-<h3 align="center">🌱 About Me</h3>
-<p align="center">I started learning programming in 2022 from the YouTube channel <a href="https://www.youtube.com/channel/UC8mGQO3hC4ce73FvZpG5XdA">ProgrammingAdvices</a> with Mr. Mohammad Abu Hudhud. I have learned algorithms and data structures, problem-solving skills, and I am continuously learning and growing as a developer.</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="300" alt="Coding Animation"/>
-</p>
-
-![Footer](https://yourimageurl.com/footer.png)
-
+<div align="center">
+   <a href="https://github.com/abnsweis">
+   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+   </a>
+</div>
+<h1 align="center">
+   <a href="https://github.com/abnsweis">
+   <img width=7% height=15% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/Hi.gif"/></a> 
+   I'm Yahya Semsem
+   <a href="https://github.com/abnsweis">
+   <img align="center" width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Flutter+Developer;Laravel+Enthusiast;Full+Stack+Developer;Tech+Blogger;Open+Source+Contributor" />
+   </a>
+</h1>
+<div align="center">
+   <a href="https://github.com/abnsweis" target="_blank">
+   <img align="right" alt="Coding" width=45% height=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder2.gif" /></a>
+   <h4>
+      🌱 I’m currently focusing on:
+      <a href="https://github.com/abnsweis">
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Flutter+Development;Laravel+Backend;Mobile+App+Development" /></a>
+      <br>
+      👯 I’m looking to collaborate on:
+      <a href="https://github.com/abnsweis">
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F7BB45&center=true&vCenter=true&width=250%&height=50%&lines=Mobile+Apps;Web+Development;Open+Source+Projects" /></a>
+      <br>
+      💬 Talk to me about:
+      <a href="https://github.com/abnsweis">
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%234AF736&center=true&vCenter=true&width=250%&height=50%&lines=Flutter;Laravel;Full+Stack+Development;Programming+Challenges;New+Tech" /></a>
+   </h4>
+</div>
+<div align="center">
+   <a href="https://github.com/abnsweis">
+   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+   </a>
+</div>
+<div align="right">
+   <a href="https://github.com/abnsweis">
+      <h2 align="center"><img alt="Script" width=10% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/script.gif"/>&nbsp;&nbsp;<img width=85% alt="Languages and Tools" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/languagesandtools.svg"/></a>
+      </h2>
+      <a href="https://github.com/abnsweis">
+         <img align="left" width=50% alt="Github" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif">
+      </a>
+   <p>
+      <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="12.5%" height="12.5%" /> 
+      </a>
+      <a href="https://laravel.com" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="12.5%" height="12.5%" />
+      </a>
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="12.5%" height="12.5%" />
+      </a>
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="12.5%" height="12.5%" />
+      </a>
+      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="12.5%" height="12.5%" />
+      </a>
+      <a href="https://www.java.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="12.5%" height="12.5%" />
+      </a>
+      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="12.5%" height="12.5%" />
+      </a>
+   </p>
+</div>
+<div align="center">
+   <a href="https://github.com/abnsweis">
+   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+   </a>
+</div>
+<div align="left">
+<a href="https://github.com/abnsweis">
+<img align="right" width=40% alt="Github" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github.gif">
+</a>
+<br>
+<a href="https://github.com/abnsweis">
+<img width=45% height=100% src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Website&logo=Github&style=for-the-badge&up_message=RUNNING&url=https%3A%2F%2Fsabyasachi-seal.github.io" />
+</a>
+<br>
+<a href="https://github.com/abnsweis">
+<img width=45% height=40% src="https://komarev.com/ghpvc/?username=abnsweis&style=for-the-badge&color=blueviolet"/>
+</a>
+<br>
+<a href="https://www.linkedin.com/in/yahya-semsem/">
+<img width=45% height=100% src="https://img.shields.io/badge/-Connect With Me-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yahya-semsem/"/>
+</a>
+<br>
+<a href="https://leetcode.com/yahya_semsem/">
+<img width=45% height=95% src="https://img.shields.io/badge/-LeetCode Profile-yellow?style=for-the-badge&logo=leetcode&logoColor=white&link=https://leetcode.com/yahya_semsem/"/>
+</a>
+<div align="center">
+   <a href="https://github.com/abnsweis">
+   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+   </a>
+</div>
+<h2 align="center">
+   <a href="https://github.com/abnsweis">
+   <img alt="Star" width=20% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/star.gif">
+   <img width=80% alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=abnsweis&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false&bg_color=000000&border_color=808080"/></a>
+</h2>
+<h2 align="center">
+   <a href="https://github.com/abnsweis">
+   <img width=45% height=100% alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=abnsweis&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false&bg_color=000000&border_color=808080"/>
+   <img width=50% height=100% alt="Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=abnsweis&bg_color=000000&color=00FF00&line=00E676&point=FFFFFF&hide_border=false"/>
+   </a>
+</h2>
+<div align="center">
+   <a href="https://github.com/abnsweis">
+   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+   </a>
+</div>
+<h2 align="center">
+   <a href="https://github.com/abnsweis">
+   <img width=85% height=95% alt="WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=abnsweis&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false&bg_color=000000&border_color=808080&v=2"/></a>
+</h2>
+<div align="center">
+   <a href="https://github.com/abnsweis">
+   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+   </a>
+</div>
+<h2 align="center">
+   <a href="https://github.com/abnsweis">
+   <img alt="Trophies" width=10% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/trophy.gif">
+   <img width=80% height=100% alt="Github Trophies" src="https://github-profile-trophy.vercel.app/?username=abnsweis&column=7&theme=onedark&no-bg=true"/>
+   </a>
+</h2>
+<div align="center">
+   <a href="https://github.com/abnsweis">
+   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+   </a>
+</div>
+<h2 align="center">
+   <a href="https://github.com/abnsweis">
+   <img alt="Star" width=20% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/star.gif">
+   <img width=80% alt="Weekly Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=abnsweis&theme=radical&hide_border=false&background=000000&border=808080" />
+   </a>
+</h2>
+<div align="center">
+   <a href="https://github.com/abnsweis">
+   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+   </a>
+</div>
+<h2 align="center">
+   <a href="https://github.com/abnsweis">
+   <img alt="Star" width=20% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/star.gif">
+   <img width=80% alt="Trophies" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abnsweis&theme=radical" />
+   </a>
+</h2>
+<div align="center">
+   <a href="https://github.com/abnsweis">
+   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+   </a>
+</div>
+<h2 align="center">
+   <a href="https://github.com/abnsweis">
+   <img alt="Star" width=20% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/star.gif">
+   <img width=80% alt="GitHub Contributions" src="https://raw.githubusercontent.com/ritik307/ritik307/output/github-contribution-grid-snake.svg">
+   </a>
+</h2>
