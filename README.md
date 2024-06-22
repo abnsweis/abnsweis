@@ -1,56 +1,60 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-20377
-Fork on GitHub
-6233
+![Ibrahim Alsubis](https://your-image-url.com/your-animated-name.gif)
 
-back to edit
+# Ibrahim Alsubis
 
-copy-markdown
+Hello! I'm Ibrahim Alsubis, a passionate software developer from Syria. I specialize in desktop application development and have a strong background in algorithms and problem-solving.
 
-download markdown
+## 🚀 About Me
+- 🌐 **Location**: Syria
+- 💼 **Profession**: Desktop Application Developer
+- 🎯 **Goal**: To become a strong full-stack developer
 
-download backup
+## 💻 My Programming Journey
+I started my programming journey with [Programming Advices](https://www.programmingadvices.com), where I learned the fundamentals of programming using C++. I am currently learning C# and .NET to expand my skills and aim to become a proficient full-stack developer.
 
-preview
-<h1 align="center">Hi 👋, I'm IBrahim Al Sweis</h1>
-<h3 align="center">A Passionate C# Developer Drom Syria</h3>
+## 🛠️ Skills
+- **Languages**: C++, C#
+- **Frameworks**: .NET
+- **Tools**: Visual Studio Community
+- **Specialties**: Algorithms, Data Structures, Problem Solving
 
-- 🌱 I’m currently learning **C# .NET**
+## 🎯 Goals
+- Master C# and .NET
+- Become a full-stack developer
+- Build innovative and efficient applications
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abn_sweis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abn_sweis" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abn_sweis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abn_sweis" height="30" width="40" /></a>
-<a href="https://fb.com/abn_sweis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abn_sweis" height="30" width="40" /></a>
-<a href="https://instagram.com/abn_sweis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abn_sweis" height="30" width="40" /></a>
-</p>
+## 📫 Get in Touch
+- **GitHub**: [abnsweis](https://github.com/abnsweis)
+- **Email**: abnsweis@example.com (replace with your actual email)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+## 🌟 Fun Facts
+- I love programming and solving complex problems.
+- I am always eager to learn new technologies and improve my skills.
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+## 🌈 Follow Me
+Feel free to follow my journey and connect with me on GitHub. I am always open to collaboration and learning opportunities.
+
+---
+
+**Thank you for visiting my profile!**
+
+<div style="text-align:center;">
+    <img src="https://your-image-url.com/another-animated-gif.gif" alt="Coding Animation">
+</div>
+
+<style>
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: #0d1b2a;
+        background-color: #e0e1dd;
+    }
+    h1, h2, h3, h4, h5, h6 {
+        color: #1b263b;
+    }
+    a {
+        color: #415a77;
+    }
+    a:hover {
+        color: #0d1b2a;
+    }
+</style>
