@@ -41,22 +41,6 @@ I started my programming journey with [Programming Advices](https://www.programm
     <img src="https://your-image-url.com/another-animated-gif.gif" alt="Coding Animation">
 </div>
 
-<style>
-    body {
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        color: #0d1b2a;
-        background-color: #e0e1dd;
-    }
-    h1, h2, h3, h4, h5, h6 {
-        color: #1b263b;
-    }
-    a {
-        color: #415a77;
-    }
-    a:hover {
-        color: #0d1b2a;
-    }
-</style>
 
 <!-- Include some animated icons using emoji -->
 <div align="center">
