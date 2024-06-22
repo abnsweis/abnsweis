@@ -31,8 +31,7 @@ I started my programming journey with [Programming Advices](https://www.programm
 - I love programming and solving complex problems.
 - I am always eager to learn new technologies and improve my skills.
 
-## 🌈 Follow Me
-Feel free to follow my journey and connect with me on GitHub. I am always open to collaboration and learning opportunities.
+
 
 ---
 
