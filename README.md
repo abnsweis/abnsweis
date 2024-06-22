@@ -1,8 +1,8 @@
-![Ibrahim Al Sweis](https://your-image-url.com/your-animated-name.gif)
+![Ibrahim Alsubis](https://your-image-url.com/your-animated-name.gif)
 
-# Ibrahim Al Sweis
+# Ibrahim Alsubis
 
-Hello! I'm Ibrahim Al Sweis, a passionate software developer from Syria. I specialize in desktop application development and have a strong background in algorithms and problem-solving.
+Hello! I'm Ibrahim Alsubis, a passionate software developer from Syria. I specialize in desktop application development and have a strong background in algorithms and problem-solving.
 
 ## 🚀 About Me
 - 🌐 **Location**: Syria
@@ -13,23 +13,23 @@ Hello! I'm Ibrahim Al Sweis, a passionate software developer from Syria. I speci
 I started my programming journey with [Programming Advices](https://www.programmingadvices.com), where I learned the fundamentals of programming using C++. I am currently learning C# and .NET to expand my skills and aim to become a proficient full-stack developer.
 
 ## 🛠️ Skills
-- **Languages**: C++, C#
-- **Frameworks**: .NET
-- **Tools**: Visual Studio Community
-- **Specialties**: Algorithms, Data Structures, Problem Solving
+- ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) **Languages**: C++, C#
+- ![NET](https://img.icons8.com/color/48/000000/net-framework.png) **Frameworks**: .NET
+- ![Visual Studio](https://img.icons8.com/color/48/000000/visual-studio.png) **Tools**: Visual Studio Community
+- ![Algorithm](https://img.icons8.com/color/48/000000/algorithm.png) **Specialties**: Algorithms, Data Structures, Problem Solving
 
 ## 🎯 Goals
-- Master C# and .NET
-- Become a full-stack developer
-- Build innovative and efficient applications
+- ![Master](https://img.icons8.com/color/48/000000/learning.png) Master C# and .NET
+- ![Full Stack](https://img.icons8.com/color/48/000000/full-stack.png) Become a full-stack developer
+- ![Innovation](https://img.icons8.com/color/48/000000/innovation.png) Build innovative and efficient applications
 
 ## 📫 Get in Touch
-- **GitHub**: [abnsweis](https://github.com/abnsweis)
-- **Email**: abnsweis@example.com (replace with your actual email)
+- ![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png) **GitHub**: [abnsweis](https://github.com/abnsweis)
+- ![Email](https://img.icons8.com/material-outlined/48/000000/email.png) **Email**: abnsweis@example.com (replace with your actual email)
 
 ## 🌟 Fun Facts
-- I love programming and solving complex problems.
-- I am always eager to learn new technologies and improve my skills.
+- ![Love Coding](https://img.icons8.com/emoji/48/000000/red-heart.png) I love programming and solving complex problems.
+- ![Learning](https://img.icons8.com/emoji/48/000000/light-bulb.png) I am always eager to learn new technologies and improve my skills.
 
 
 
@@ -38,25 +38,8 @@ I started my programming journey with [Programming Advices](https://www.programm
 **Thank you for visiting my profile!**
 
 <div align="center">
-    <img src="https://your-image-url.com/another-animated-gif.gif" alt="Coding Animation">
+    <img src="https://your-image-url.com/another-animated-gif.gif" alt="Coding Animation" width="300">
 </div>
-
-<style>
-    body {
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        color: #0d1b2a;
-        background-color: #e0e1dd;
-    }
-    h1, h2, h3, h4, h5, h6 {
-        color: #1b263b;
-    }
-    a {
-        color: #415a77;
-    }
-    a:hover {
-        color: #0d1b2a;
-    }
-</style>
 
 <!-- Include some animated icons using emoji -->
 <div align="center">
