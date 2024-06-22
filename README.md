@@ -1,6 +1,6 @@
 ![Ibrahim Alsubis](https://your-image-url.com/your-animated-name.gif)
 
-# Ibrahim Alsubis
+# Ibrahim Al Sweis
 
 Hello! I'm Ibrahim Alsubis, a passionate software developer from Syria. I specialize in desktop application development and have a strong background in algorithms and problem-solving.
 
