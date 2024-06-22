@@ -31,7 +31,7 @@
 
 <h3 align="center">💬 Connect with me:</h3>
 <p align="center">
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter"/></a>
+  <a href="https://twitter.com/abnsweis"><img src="[https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter](https://img.icons8.com/?size=48&id=32323&format=png)" alt="Twitter"/></a>
   <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail" alt="Email"/></a>
 </p>
