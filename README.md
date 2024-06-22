@@ -25,7 +25,7 @@ I started my programming journey with [Programming Advices](https://www.programm
 
 ## 📫 Get in Touch
 - **GitHub**: [abnsweis](https://github.com/abnsweis)
-- **Email**: abnsweis@example.com (replace with your actual email)
+- **Email**: abnsweis@gmail.com (replace with your actual email)
 
 ## 🌟 Fun Facts
 - I love programming and solving complex problems.
